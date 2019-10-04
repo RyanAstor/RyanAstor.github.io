@@ -1,6 +1,8 @@
 body {
     margin: 60px auto;
     width: 70%;
+	background-image: url("https://media.licdn.com/dms/image/C4E16AQGwthNisSSGmw/profile-displaybackgroundimage-shrink_350_1400/0?e=1575504000&v=beta&t=aKBNbYlCncueWQ9qjH-kQEY9aXhX-uNIouBZsFPe460");
+	background-color: #cccccc;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
